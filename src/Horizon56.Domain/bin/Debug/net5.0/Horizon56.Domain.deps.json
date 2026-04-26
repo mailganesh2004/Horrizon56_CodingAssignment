@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Horizon56.Domain/1.0.0": {
+        "runtime": {
+          "Horizon56.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Horizon56.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

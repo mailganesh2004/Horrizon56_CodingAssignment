@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Api\\Horizon56.Api.csproj": {}
+  },
+  "projects": {
+    "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Api\\Horizon56.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Api\\Horizon56.Api.csproj",
+        "projectName": "Horizon56.Api",
+        "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Api\\Horizon56.Api.csproj",
+        "packagesPath": "C:\\Users\\mailg\\.nuget\\packages\\",
+        "outputPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mailg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj": {
+                "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj"
+              },
+              "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\Horizon56.Infrastructure.csproj": {
+                "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\Horizon56.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "HotChocolate.Data": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "HotChocolate.Subscriptions.InMemory": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj",
+        "projectName": "Horizon56.Application",
+        "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj",
+        "packagesPath": "C:\\Users\\mailg\\.nuget\\packages\\",
+        "outputPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mailg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj": {
+                "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj",
+        "projectName": "Horizon56.Domain",
+        "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj",
+        "packagesPath": "C:\\Users\\mailg\\.nuget\\packages\\",
+        "outputPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mailg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\Horizon56.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\Horizon56.Infrastructure.csproj",
+        "projectName": "Horizon56.Infrastructure",
+        "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\Horizon56.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mailg\\.nuget\\packages\\",
+        "outputPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mailg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj": {
+                "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj"
+              },
+              "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj": {
+                "projectPath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Domain\\Horizon56.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

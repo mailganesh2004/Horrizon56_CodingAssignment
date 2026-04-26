@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mailg\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mailg\\.nuget\\packages"
+    ]
+  }
+}

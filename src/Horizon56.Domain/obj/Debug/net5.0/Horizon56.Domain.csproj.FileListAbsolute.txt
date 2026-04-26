@@ -1,0 +1,15 @@
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\bin\Debug\net5.0\Horizon56.Domain.deps.json
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\bin\Debug\net5.0\Horizon56.Domain.dll
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\bin\Debug\net5.0\ref\Horizon56.Domain.dll
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\bin\Debug\net5.0\Horizon56.Domain.pdb
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.AssemblyInfoInputs.cache
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.AssemblyInfo.cs
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.csproj.CoreCompileInputs.cache
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.dll
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\ref\Horizon56.Domain.dll
+F:\Claude\Horrizon56CodingTest\src\Horizon56.Domain\obj\Debug\net5.0\Horizon56.Domain.pdb
+C:\Users\mailg\AppData\Local\Temp\horizon56api\Horizon56.Domain.deps.json
+C:\Users\mailg\AppData\Local\Temp\horizon56api\Horizon56.Domain.dll
+C:\Users\mailg\AppData\Local\Temp\horizon56api\ref\Horizon56.Domain.dll
+C:\Users\mailg\AppData\Local\Temp\horizon56api\Horizon56.Domain.pdb

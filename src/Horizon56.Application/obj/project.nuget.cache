@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pc9VSVxiyT2/JVtcT3WF6bOTOufRQzGNx4dGBGMWChN5qmn3tMMRW6sbhlfK6Re9p7SBOVMAmYaANOkUK8nKTg==",
+  "success": true,
+  "projectFilePath": "F:\\Claude\\Horrizon56CodingTest\\src\\Horizon56.Application\\Horizon56.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mailg\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\mailg\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mailg\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\mailg\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
